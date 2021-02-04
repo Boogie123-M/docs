@@ -11,3 +11,4 @@ versions:
   enterprise-server: '*'
 ---
 
+securing-your-account-with-two-factor-authentication-2fa.md
